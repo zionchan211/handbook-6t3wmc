@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zionchan211.github.io/handbook-6t3wmc/sitemap.xml
